@@ -1,0 +1,62 @@
+.dashbox {
+  display: flex;
+  margin-top: 3em;
+  border-radius: 10px;
+  width: 22vw;
+  height: auto;
+  max-width: 255px !important;
+
+  position: fixed;
+  background-color: white;
+
+  left: 1em;
+}
+
+.clickbox {
+  backdrop-filter: blur(3px);
+  margin-top: 3em;
+  background-color: rgba(255, 255, 255, 0.5);
+
+  height: 80vh;
+
+  border-radius: 10px;
+  padding: 1em;
+
+  width: 65vw;
+  max-height: 80vh;
+}
+
+.boxheader {
+  background-color: white;
+  padding: 1em;
+  border-radius: 5px;
+}
+
+.patient {
+  color: black !important;
+  background-color: white;
+}
+
+@media only screen and (max-width: 1024px) {
+  .dashbox {
+    height: auto !important;
+    max-width: 85px !important;
+  }
+  .itemtext {
+    display: none;
+  }
+
+  .divider {
+    width: 70%;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .clickbox {
+    width: 73vw;
+    margin-left: 4.5%;
+  }
+
+  .dashbox {
+    left: 0;
+  }
+}

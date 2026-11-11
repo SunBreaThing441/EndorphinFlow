@@ -1,0 +1,169 @@
+/* -----------------------Main Wrapper------------------ */
+.ce-chat-engine {
+  background: transparent !important;
+}
+.ce-wrapper {
+  background: transparent !important;
+}
+
+/* -----------------Middle Column---------------------- */
+.ce-chat-feed-column {
+}
+
+.ce-chat-feed {
+}
+
+.ce-chat-title {
+}
+
+.ce-chat-list-mobile-options {
+}
+
+.ce-chat-title-container {
+  color: #4050b5 !important;
+  border-radius: 10px;
+}
+
+.ce-chat-title-text {
+}
+
+.ce-chat-subtitle-text {
+}
+
+.ce-chat-settings-mobile-option {
+}
+
+.ce-feed-container {
+}
+
+.ce-feed-container-top {
+}
+
+.ce-feed-container-bottom {
+}
+
+.ce-message-form-container {
+}
+
+.ce-message-imags-row {
+}
+
+.ce-message-files-row {
+}
+
+.ce-message-files-row {
+}
+
+.ce-quil-container {
+}
+
+.ce-my-message-bubble {
+  background-color: #4050b5 !important;
+}
+
+.ce-their-message-bubble {
+  background-color: lightblue !important;
+}
+
+/* houses b/i/u/code/attachments options */
+#msg-form-container {
+}
+.ce-quil-container {
+  /* background: transparent !important; */
+}
+.ql-toolbar ql-snow {
+  background: white !;
+}
+.ql-container {
+  /* background: transparent !important; */
+}
+.ql-editor {
+  background: transparent !important;
+}
+.quill {
+  /* background: transparent !important; */
+}
+
+#ce-send-message-button {
+  background-color: #4050b5 !important;
+}
+
+.ce-send-button-container {
+}
+#new-chat-plus-button {
+  background-color: #4050b5 !important;
+}
+/* styles chat feed bg */
+.ce-chat-feed-container {
+  background: transparent !important;
+  /* border-radius: 50px !important; */
+}
+
+/* .ce-msg-form-container {
+  background: green !important;
+} */
+
+/* ----------------Left Column---------------------- */
+
+.ce-chat-list-column {
+}
+
+.ce-chat-list {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 1em !important;
+}
+
+.ce-chats-container {
+  background-color: transparent !important;
+  border-radius: 50px !important;
+}
+
+.ce-chat-form-container {
+  border-radius: 15px;
+  background: transparent;
+}
+
+.ce-chat-card ce-active-chat-card {
+  margin-top: 50px !important;
+}
+.ce-chat-list-mobile-options {
+  background-color: tomato !important;
+  border-radius: 50px !important;
+}
+
+/* --------------Right Column------------------- */
+
+.ce-settigs-column {
+  /* border-radius: 50px !important; */
+}
+
+.ce-settings {
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+
+  padding: 1em !important;
+}
+
+.ce-settings-container {
+  background: transparent !important;
+  border-radius: 50px !important;
+}
+.ce-section-title-container {
+  border-radius: 10px !important;
+  background: transparent !important;
+}
+.ce-chat-settings-container {
+  border-radius: 10px !important;
+  background-color: transparent !important;
+}
+
+.ce-chat-avatars-row {
+}
+
+.ce-chat-title-form {
+}
+
+.ce-photo-section {
+  border-radius: 10px !important;
+}
